@@ -1,0 +1,17 @@
+{
+  "checkIntervalSecond": 300,
+  "mail": {
+    "smtp": {
+      "host": "xx.example.com",
+      "port": 123,
+      "secure": true,
+      "auth": {
+        "user": "xx@example.com",
+        "pass": "password"
+      }
+    },
+    "subjectPrefix": "prefix",
+    "to": "to@example",
+    "from": "from@example.com"
+  }
+}

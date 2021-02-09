@@ -1,0 +1,17 @@
+{
+  "checkIntervalSecond": 10,
+  "mail": {
+    "smtp": {
+      "host": "smtp.qq.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "wu.kui2@qq.com",
+        "pass": "ublduxjegbrnbjjh"
+      }
+    },
+    "subjectPrefix": "home",
+    "to": "wu.kui2@gmail.com",
+    "from": "wu.kui2@qq.com"
+  }
+}

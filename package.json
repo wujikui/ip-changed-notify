@@ -1,0 +1,26 @@
+{
+  "name": "if-changed-notify",
+  "version": "1.0.0",
+  "description": "A tool which detect network public ip and notify via email when initialized or changed.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujikui/ip-changed-notify.git"
+  },
+  "author": "wu.kui2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wujikui/ip-changed-notify/issues"
+  },
+  "homepage": "https://github.com/wujikui/ip-changed-notify#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nodemailer": "^6.4.17"
+  }
+}
